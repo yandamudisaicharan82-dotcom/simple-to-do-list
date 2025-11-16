@@ -2,7 +2,7 @@
 1.Project Overview
 >>This is a simple console-based To-Do List Application built using Python.
 >>The app allows users to add, view, and remove tasks, and it stores all tasks in a text file so that data is saved even after the program is closed.
-2.Objective
+2.Objective: 
 >>Implement a basic to-do list manager using core Python concepts.
 3. Tools Used
 >>Python
